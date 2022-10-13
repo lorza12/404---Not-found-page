@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&family=Space+Mono&family=Work+Sans:wght@100&display=swap');
+ 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    font-size: 18px;
+    font-family: 'Space Mono',monospace;
+    
+}
+.title{
+    font-size: 15px;
+}
+.container{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    align-self:stretch;
+       
+}
+.image{
+    display: flex;
+    justify-content: left;
+    width:500px ;
+    height:450px;
+}
+.image img{
+    width: 100%;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 400px;
+    margin-left: 100px;
+}
+.text h2{
+   
+    left: 650px;
+    top: -400px;
+    font-size: 30px  ;
+    color:  #333333;
+    font-weight: 700;
+    max-width: 400px;
+    width: 300px;
+}
+.text p{
+    left: 650px;
+    top: -350px;
+    font-size: 18px  ;
+    color:  #4F4F4F;
+    font-weight: 500;
+    max-width: 300px;
+    width: 300px;
+}
+.text button {
+        
+    display:flex;
+    font-size: 20px;
+    justify-content: center;
+    background-color: #333333;
+    color: aliceblue;
+    font-family:'Space Mono',monospace;
+    max-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    align-items: center;
+} 
+@media (max-width: 1200px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    .text{
+        margin-left: 50px;
+    }
+    .text h2 p{
+        width: 250px;
+    }
+    .image {
+        width: 300px;
+        height: 300px;
+        display: flex;
+        align-self: center;
+        margin-left: -40px;
+       
+        
+    }
+   
+  }
