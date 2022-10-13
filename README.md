@@ -2,11 +2,8 @@
 
 
 
-construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
+construir una pantalla de 404 not found para una pagina
 
-- tarea 1 : construir una tarjeta para mobile
-
-- Tarea 2 : construir una tarjeta para para la web
 
 
 ![spt2](https://user-images.githubusercontent.com/115027137/195480982-1fa329c5-1805-49f6-a35a-75ccf63e9dfd.png) ![esp1](https://user-images.githubusercontent.com/115027137/195481587-be979ac6-a8f8-4a63-85e1-44372f730ded.png)
@@ -15,15 +12,13 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 
 
 
-
-
 <h1>mi proceso</h1>
 
-- construido con HTML usando nuevas estructuras investigadas en el camino 
+- interactuando mas con a diversas herrramientas que nos ofrece ambos lenguajes ( HTML, CSS)
 
-- Aplicamos propiedades de css con mas alcance 
+- Aplicamos propiedades de css nutriendo mas el conocimiento
 
-cree archivo .HTML para estrucuturar bien mi pryecto, despues cree un archivo .CSS para definir mejor mi diseño y encapsualando tambien la estructura para la previsualicacion tanto en mobile como para la web
+Comprendio la petodologia de como atraves de @media podemos aagilizar nuestro pryecto
 
 
 <h1>construido con</h1>
