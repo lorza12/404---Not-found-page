@@ -9,7 +9,8 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 - Tarea 2 : construir una tarjeta para para la web
 
 
-![spt2](https://user-images.githubusercontent.com/115027137/195480982-1fa329c5-1805-49f6-a35a-75ccf63e9dfd.png) ![image](https://user-images.githubusercontent.com/115027137/195481034-6bfb7a52-be17-4d61-a7f3-127e2773337b.png)
+![spt2](https://user-images.githubusercontent.com/115027137/195480982-1fa329c5-1805-49f6-a35a-75ccf63e9dfd.png) ![esp1](https://user-images.githubusercontent.com/115027137/195481587-be979ac6-a8f8-4a63-85e1-44372f730ded.png)
+
 
 
 
