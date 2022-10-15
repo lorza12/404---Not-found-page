@@ -6,8 +6,9 @@ construir una pantalla de 404 not found para una pagina
 
 
 
-![spt2](https://user-images.githubusercontent.com/115027137/195480982-1fa329c5-1805-49f6-a35a-75ccf63e9dfd.png) ![esp1](https://user-images.githubusercontent.com/115027137/195481587-be979ac6-a8f8-4a63-85e1-44372f730ded.png)
+![spt2](https://user-images.githubusercontent.com/115027137/195480982-1fa329c5-1805-49f6-a35a-75ccf63e9dfd.png) ![esp1](https://user-
 
+![espanta pajaros](https://user-images.githubusercontent.com/115027137/195994166-942690aa-9e1d-419c-8a9f-301190eebca3.png)
 
 
 
