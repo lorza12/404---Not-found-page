@@ -6,19 +6,19 @@
     padding: 0;
 }
 body{
-    
     font-size: 18px;
     font-family: 'Space Mono',monospace;
-    
+    justify-content: center;
 }
 .title{
     font-size: 15px;
 }
 .container{
     display: flex;
-    margin-top: 100px;
+    align-items: center;
+    margin-top: 0px;
     margin-left: 150px;
-    align-self:stretch;
+    margin-bottom: 100px;
        
 }
 .image{
@@ -69,6 +69,12 @@ body{
     text-align: center;
     align-items: center;
 } 
+
+.piepag {
+    text-align: center;
+    color:gray;
+    margin-top: 0%;
+}
 @media (max-width: 1200px) {
     .container{
         display: flex;
