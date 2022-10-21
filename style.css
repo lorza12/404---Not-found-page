@@ -6,20 +6,21 @@
     padding: 0;
 }
 body{
+    
     font-size: 18px;
     font-family: 'Space Mono',monospace;
     justify-content: center;
 }
+
 .title{
     font-size: 15px;
+    margin-left: 15%;
 }
 .container{
     display: flex;
+    justify-content: center;
     align-items: center;
-    margin-top: 0px;
-    margin-left: 150px;
-    margin-bottom: 100px;
-       
+   
 }
 .image{
     display: flex;
@@ -71,16 +72,17 @@ body{
 } 
 
 .piepag {
-    text-align: center;
+    display: flex;
+    justify-content: center;
     color:gray;
-    margin-top: 0%;
+    margin-top: 15%;
 }
 @media (max-width: 1200px) {
     .container{
         display: flex;
-        flex-direction: column;
-        margin-top: 50px;
-        margin-left: 0px;
+        justify-content: center;
+        align-items: center;
+        
     }
     .text{
         margin-left: 50px;
@@ -89,11 +91,9 @@ body{
         width: 250px;
     }
     .image {
-        width: 300px;
-        height: 300px;
-        display: flex;
-        align-self: center;
-        margin-left: -40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
        
         
     }
